@@ -66,4 +66,5 @@ Each class will be structured as follows
 
 ## Other
 **TODO:** setup a mailing list
+
 **TODO:** define date for second chance
