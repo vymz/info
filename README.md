@@ -33,7 +33,7 @@ April 29    | Class
 May 6       | Class
 May 13      | Class
 May 20      | Class
-May 27      | Class
+May 27      | Alexandre Maciel
 June 3      | Class
 June 10     | Class
 June 17     | Seminar
