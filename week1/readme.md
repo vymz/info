@@ -16,7 +16,6 @@ Week running from March 4th to March 10th.
   
 * [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - _You can activate subtitles on YouTube. **TODO:** dizer até onde é pra assistir_
 
-olá pessoal
 
 ## Assignment
 **Deadline:** March 10th, midnight
