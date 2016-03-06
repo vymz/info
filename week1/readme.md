@@ -45,4 +45,4 @@ Week running from March 4th to March 10th.
 ## *Student suggestions*
 *Resources found and recommended by students. Feel free to add what you found here, just make sure that you read/watch it first.*
 
-* [resource title](http://www.google.com) - recommended by *xxx*
+* Curso de Git para iniciantes - [Aula 1](https://www.youtube.com/watch?v=WVLhm1AMeYE&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0&index=1) / [Aula 2] (https://www.youtube.com/watch?v=-GhA2JPImgU&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0&index=2) / [Aula 3]  (https://www.youtube.com/watch?v=bDLEBDaS3ao&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0&index=3) / [Aula 4] (https://www.youtube.com/watch?v=dRV13jZqhU0&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0&index=4) / [Aula 5] (https://www.youtube.com/watch?v=Fhd8OKIDQ5M&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0&index=5) / [Aula 6] (https://www.youtube.com/watch?v=fRQrnWqDLn0&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0&index=6) / [Aula 7] (https://www.youtube.com/watch?v=1IfAFYQD8u0&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0&index=7) / [Aula 8] (https://www.youtube.com/watch?v=mGeIFe-pDow&list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0&index=8) - recommended by *Alexandre Mendonça*
