@@ -14,7 +14,7 @@ Week running from March 4th to March 10th.
   * [Mastering Issues](https://guides.github.com/features/issues/)
   
   
-* [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - _You can activate subtitles on YouTube. **TODO:** dizer até onde é pra assistir_
+* [The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ) - at least until 33:30. _You can activate subtitles on YouTube._
 
 
 ## Assignment
