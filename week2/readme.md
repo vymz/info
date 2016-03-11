@@ -16,12 +16,13 @@ Week running from March 11th to March 18th.
 
 **Grading:** Your repository will be checked for grading, thus if you make any changes locally be sure to pull them.
 
-1. Fork the 'week2' repository
-1. Update the software in order to support two languages
+1. Fork the 'info' repository, if you haven't already. If you did, make sure that you got the 'ComplementaryColor.java' file
+1. Update the software (Java class) in order to support one additional language (ex: portuguese and english)
 1. Tag this version as 'release1'
 1. Update the software in order to support yet another language
 1. Tag this version as 'release2'
 
+**About the software to be evolved:** This poorly coded software identifies a representative vegetable and a complementary color for a given color provided as argument. Currently it only runs in portuguese, hopefully we will have it running with two other languages. There's no constraint on how you will achieve this, as long as it gets done. 
 
 ## *Extra*
 *Recommended resources for the interested students*
