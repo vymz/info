@@ -41,6 +41,53 @@ public class ComplementaryColor {
 		}
 
 
+		// Spanish
+		if (args[0].equals("es")) {
+			String info[] = spanish(args[0], args[1]);
+
+			System.out.print("Genial, elegiste \"" + args[1]);
+			System.out.println("\", color de " + info[0] + ".");
+			System.out.println("Su color complementario es: " + info[1] + "!");
+		}	
+	} 
+
+	/* Method for Spanish language*/ 
+	public static String[] spanish( String lengua, String color ){
+		String[] info = new String[2];
+		String representation = "";
+		String cColor = "";
+
+		if ("rojo".equals(color)) {
+			representation = "tomate";
+			cColor = "verde";
+		}
+		else if ("morado".equals(color)) {
+			representation = "berenjena";
+			cColor = "amarillo";
+		}
+		else if ("azul".equals(color)) {
+			representation = "arándano";
+			cColor = "naranja";
+		}
+		else if ("verde".equals(color)) {
+			representation = "lechuga";
+			cColor = "rojo";
+		}
+		else if ("amarillo".equals(color)) {
+			representation = "melón";
+			cColor = "morado";
+		}
+		else if ("naranja".equals(color)) {
+			representation = "mandarina";
+			cColor = "azul";
+		}
+
+		info[0] = representation;
+		info[1] = cColor;	
+
+		return info;
+	}
+
 
 	/* Method for English language*/
 	public static String[] english( String langus, String color ) {
